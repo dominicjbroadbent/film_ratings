@@ -1,5 +1,5 @@
 # film_ratings
-Can we predict the user rating of a film (on IMDB) from information prior to release, such as the film's streaming platform, critic rating or genre?
+Can we predict the user rating of a film (on IMDB) from information prior to release, such as the film's streaming platform, critic rating (from Rotten Tomatoes) or genre?
 See the jupyter files for the data compilation process and analysis.
 
 ## Environment
