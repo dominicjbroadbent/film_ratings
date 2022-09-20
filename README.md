@@ -1,4 +1,6 @@
 # film_ratings
+Can we predict the user rating of a film (on IMDB) from information prior to release, such as the film's streaming platform, critic rating or genre?
+See the jupyter files for the data compilation process and analysis.
 
 ## Environment
 The environment is being managed by conda with configuration stored in the 'env.yml' file. To create your environment just use `conda env create --file env.yml` from the base of the repository. To update using a new config use `conda env update --file env.yml --prune`.
